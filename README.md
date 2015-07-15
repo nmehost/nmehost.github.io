@@ -1,2 +1,4 @@
 # nmehost.github.io
-nmehost website
+Nmehost website.
+
+Please visit: http://nmehost.github.io/
